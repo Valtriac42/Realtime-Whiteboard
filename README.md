@@ -55,7 +55,7 @@ Users can **share a room** and **view** the presenter's live drawing updates.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/priyanshu0511/realtime-whiteboard.git
+git clone https://github.com/Valtriac42/realtime-whiteboard.git
 cd realtime-whiteboard
 
 ```
