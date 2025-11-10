@@ -102,7 +102,7 @@ npm run dev
 
 Made with ❤️ by **Priyanshu**
 
--   GitHub: [@priyanshu0511](https://github.com/Valtriac42/)
+-   GitHub: [@Valtriac42](https://github.com/Valtriac42/)
     
 -   LinkedIn: [Priyanshu Sharma](https://x.com/Priyanshu42v)
     
